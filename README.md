@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
@@ -44,11 +44,15 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-
+## Model:
+ ![alt text](ramlalatemple.jpeg)
 ## Output:
+![alt text](<Screenshot 2024-05-15 172106.png>)
+![alt text](<Screenshot 2024-05-15 172014.png>)
 
-### Name:
-### Register Number:
+![alt text](<Screenshot 2024-05-15 171723.png>)
+### Name:JSelva kumar A
+### Register Number:212222110042
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
