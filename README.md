@@ -51,7 +51,7 @@
 ![alt text](<Screenshot 2024-05-15 172014.png>)
 
 ![alt text](<Screenshot 2024-05-15 171723.png>)
-### Name:JSelva kumar A
+### Name:Selva kumar A
 ### Register Number:212222110042
 
 ## RESULT:
