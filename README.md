@@ -45,12 +45,13 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 ## Model:
- ![alt text](ramlalatemple.jpeg)
-## Output:
-![alt text](<Screenshot 2024-05-15 172106.png>)
-![alt text](<Screenshot 2024-05-15 172014.png>)
+ ![ramlalatemple](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/05cb9741-be55-4252-970a-afe4c952fb63)
 
-![alt text](<Screenshot 2024-05-15 171723.png>)
+## Output:
+![Screenshot 2024-05-15 172106](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/30d7cc69-2cf0-4469-801b-b796236332c4)
+![Screenshot 2024-05-15 172014](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/4e88cc67-b831-4ad2-8580-0f8c133030f0)
+![Screenshot 2024-05-15 171723](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/1a65c98f-f083-48f7-ad73-32fbcee6eaef)
+
 ### Name:JOTHIKRISHNAA V
 ### Register Number:212223100017
 
