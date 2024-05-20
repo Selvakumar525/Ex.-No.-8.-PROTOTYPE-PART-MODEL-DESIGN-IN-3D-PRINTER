@@ -51,8 +51,8 @@
 ![alt text](<Screenshot 2024-05-15 172014.png>)
 
 ![alt text](<Screenshot 2024-05-15 171723.png>)
-### Name:Selva kumar A
-### Register Number:212222110042
+### Name:JOTHIKRISHNAA V
+### Register Number:212223100017
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
