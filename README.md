@@ -52,8 +52,8 @@
 ![Screenshot 2024-05-15 172014](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/4e88cc67-b831-4ad2-8580-0f8c133030f0)
 ![Screenshot 2024-05-15 171723](https://github.com/Selvakumar525/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120643262/1a65c98f-f083-48f7-ad73-32fbcee6eaef)
 
-### Name:JOTHIKRISHNAA V
-### Register Number:212223100017
+### Name:Selva kumar
+### Register Number:212222110042
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
